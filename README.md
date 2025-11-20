@@ -13,6 +13,7 @@ Here are some To-Dos of this project:
 - Improve PID controllers
 - Add a "real" sensor and state estimator
 - Add a "real" trajectory planner
+- Add Joysticks control
 
 ## Acknowledgements
 Mujoco: https://github.com/google-deepmind/mujoco
